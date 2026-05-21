@@ -1,0 +1,36 @@
+# Luxury Housing Sales Analysis – Bengaluru
+
+## Project Overview
+This project analyzes luxury housing sales data in Bengaluru using Python, SQL, and Power BI.
+
+## Tools Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- SQLite
+- Power BI
+
+## Project Workflow
+1. Data Cleaning
+2. Feature Engineering
+3. Exploratory Data Analysis
+4. SQL Integration
+5. Dashboard Visualization
+
+## Key Insights
+- Top developers by revenue
+- Most demanded property configurations
+- Quarter-wise booking trends
+- NRI buyer analysis
+- Micro-market performance analysis
+
+## Dashboard Features
+- Interactive slicers
+- Revenue analysis
+- Buyer behavior analysis
+- Market trend visualization
+
+## Conclusion
+This project helps understand luxury real estate trends and buyer behavior in Bengaluru.
